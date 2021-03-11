@@ -3,11 +3,13 @@
 
 This is the code for the paper [TEBC-Net]. 
 
-This paper proposes a novel deep neural network model Transformer Encoder-BiLSTM-CNN Net (TEBC-Net) to improve the accuracy of relation extraction subtask in KGSQA. Our method cross-complements the BiLSTM, CNN with Transformer and enhanced by residual learning to encode the question in different features. Our experimental results demonstrate that our method not only achieves better results in relation extraction subtask, but also outperforms the state-of-the-art approaches in the KGSQA task.
+This paper proposes a novel deep neural network model Transformer Encoder-BiLSTM-CNN Net (TEBC-Net) to improve the accuracy of relation extraction subtask in KGSQA. Our method cross-complements the BiLSTM, CNN with Transformer and enhanced by residual learning to encode the question in different features. Our experimental results demonstrate that our method not only achieves better results in relation extraction subtask, but also outperforms the state-of-the-art approaches in the KGSQA task.  
+
+The optimization model used in this paper is the cnn.py provided above.
 
 
 #### Installation
-Requirement  
+Requirements  
 1.fuzzywuzzy  
 2.scikit-learn  
 3.torchtext  
