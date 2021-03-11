@@ -7,7 +7,12 @@ This paper proposes a novel deep neural network model Transformer Encoder-BiLSTM
 
 
 #### Installation
-1.fuzzywuzzy  2.scikit-learn  3.torchtext  4.nltk  5.pytorch  6.numpy
+1.fuzzywuzzy  
+2.scikit-learn  
+3.torchtext  
+4.nltk  
+5.pytorch  
+6.numpy
 
 
 
