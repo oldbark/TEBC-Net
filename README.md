@@ -30,6 +30,8 @@ We use the following three statements to train the HED model, the entity extract
 We use the following statement for the final KGSQA task test.  
 python test_main.py
 
+The specific model structure is commented inside the code.
+
 
 
 
